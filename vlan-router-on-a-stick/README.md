@@ -30,3 +30,5 @@ The goal of this lab is to configure inter-VLAN routing using the Router-on-a-St
 You can download and open the lab in Cisco Packet Tracer.
 
 [vlan-router-on-a-stick.pkt](vlan-router-on-a-stick.pkt)
+
+Open the Packet Tracer file to explore the full network topology and test the VLAN routing configuration.
