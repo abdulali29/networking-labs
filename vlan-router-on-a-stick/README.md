@@ -2,7 +2,7 @@
 
 ## Objective
 
-Configure inter-VLAN routing using a Cisco router and a Layer 2 switch.
+The goal of this lab is to configure inter-VLAN routing using the Router-on-a-Stick method with a Cisco router and Layer 2 switch.
 
 ## Topology
 
