@@ -22,3 +22,11 @@ The goal of this lab is to configure inter-VLAN routing using the Router-on-a-St
 - Cisco Switch
 - VLAN segmentation
 - Router-on-a-Stick
+
+
+
+## Packet Tracer Lab
+
+You can download and open the lab in Cisco Packet Tracer.
+
+[vlan-router-on-a-stick.pkt](vlan-router-on-a-stick.pkt)
