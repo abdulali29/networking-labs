@@ -114,6 +114,26 @@ Default Gateway: 192.168.4.1
 
 
 
+## Inter-VLAN Routing Tests
+
+### VLAN 2 → Router Interface (VLAN 3)
+
+![VLAN2 to Router VLAN3](vlan2_to_router_vlan3_ping_test.png)
+
+A host in VLAN 2 successfully pings the router subinterface in VLAN 3.
+
+---
+
+### Inter-VLAN Communication
+
+![Inter VLAN Routing](inter_vlan_routing_test.png)
+
+Devices in different VLANs are able to communicate through the router-on-a-stick configuration.
+
+
+
+
+
 ## Packet Tracer Lab
 
 You can download and open the lab in Cisco Packet Tracer.
