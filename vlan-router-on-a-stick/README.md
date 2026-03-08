@@ -149,6 +149,13 @@ Devices in different VLANs are able to communicate through the router-on-a-stick
 
 
 
+### VLAN 2 → VLAN 4 Communication
+
+![VLAN2 to VLAN4](vlan2_to_vlan4_inter_vlan_routing_test.png)
+
+A device in VLAN 2 successfully communicates with a device in VLAN 4 through the router, confirming that inter-VLAN routing is functioning correctly.
+
+
 
 
 ## Packet Tracer Lab
