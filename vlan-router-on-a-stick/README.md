@@ -29,6 +29,18 @@ The goal of this lab is to configure inter-VLAN routing using the Router-on-a-St
 - Router-on-a-Stick
 
 
+## Skills Demonstrated
+
+- VLAN configuration
+- Switch access port configuration
+- 802.1Q trunk configuration
+- Router subinterfaces
+- Inter-VLAN routing
+- Network segmentation
+- Connectivity testing using ping
+
+
+
 ## Router Interfaces
 
 Verification of router subinterfaces:
