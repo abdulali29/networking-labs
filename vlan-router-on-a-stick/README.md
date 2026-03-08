@@ -2,7 +2,7 @@
 
 This lab demonstrates inter-VLAN routing using the Router-on-a-Stick method.
 
-Multiple VLANs are configured on a Layer 2 switch and connected to a router through a trunk port.  
+Multiple VLANs are configured on a Layer 2 switch and connected to a router through an 802.1Q trunk link.  
 The router uses subinterfaces with IEEE 802.1Q encapsulation to route traffic between VLANs.
 
 ## Objective
