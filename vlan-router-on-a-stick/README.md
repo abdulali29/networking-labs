@@ -29,17 +29,6 @@ The goal of this lab is to configure inter-VLAN routing using the Router-on-a-St
 - Router-on-a-Stick
 
 
-## Skills Demonstrated
-
-- VLAN configuration
-- Switch access port configuration
-- 802.1Q trunk configuration
-- Router subinterfaces
-- Inter-VLAN routing
-- Network segmentation
-- Connectivity testing using ping
-
-
 
 ## Router Interfaces
 
@@ -216,3 +205,15 @@ You can download and open the lab in Cisco Packet Tracer.
 [vlan-router-on-a-stick.pkt](vlan-router-on-a-stick.pkt)
 
 Open the Packet Tracer file to explore the full network topology and test the VLAN routing configuration.
+
+
+
+## Skills Demonstrated
+
+- VLAN configuration
+- Switch access port configuration
+- 802.1Q trunk configuration
+- Router subinterfaces
+- Inter-VLAN routing
+- Network segmentation
+- Connectivity testing using ping
