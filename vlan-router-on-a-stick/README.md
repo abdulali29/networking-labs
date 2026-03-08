@@ -59,6 +59,19 @@ Note: The router subinterface GigabitEthernet0/0/0.4 is configured with IEEE 802
 
 
 
+
+## Router Interface Verification
+
+![Router Interface Status](verify_status_for_interfaces.png)
+
+Note: The output of `show ip interface brief` confirms that the router subinterfaces are operational and ready to handle inter-VLAN routing.
+
+
+
+
+
+
+
 ## Packet Tracer Lab
 
 You can download and open the lab in Cisco Packet Tracer.
