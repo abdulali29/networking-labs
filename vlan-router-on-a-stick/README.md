@@ -195,12 +195,16 @@ The command `show mac address-table` shows the MAC addresses learned by the swit
 
 ---
 
-## Overall Configuration Verification
+### Overall Configuration Verification
+
+```
+Switch#show vlan brief
+Switch#show interfaces trunk
+```
 
 This output verifies the VLAN configuration, trunk link, and router interface status.
 
-![Configuration Verification](switch_router_configuration_verification.png)
-
+![Switch VLAN and Trunk Status](switch_router_configuration_verification.png)
 
 
 
