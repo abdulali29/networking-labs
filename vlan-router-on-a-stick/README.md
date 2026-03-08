@@ -40,6 +40,7 @@ Note: Interface status before VLAN subinterface configuration.
 
 Note: The router subinterface for VLAN 2 is configured using 802.1Q encapsulation and assigned the IP address 192.168.2.1. Once configured, the interface state changes to **up**, allowing the router to act as the default gateway for VLAN 2.
 
+Note: `dot1Q` stands for **IEEE 802.1Q**, the standard used for VLAN tagging in Ethernet networks. It allows the router to identify which VLAN incoming traffic belongs to. The number **2** represents the VLAN ID, meaning this subinterface processes traffic for **VLAN 2**.
 
 
 ## VLAN 3 Subinterface Configuration
