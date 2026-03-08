@@ -53,12 +53,9 @@ Note: The router subinterface GigabitEthernet0/0/0.3 is configured with 802.1Q e
 
 ## VLAN 4 Subinterface Configuration
 
-![VLAN4 configuration](VLAN4_configuration.png)
+![VLAN4 Configuration](VLAN4_configuration.png)
 
-Note: The router subinterface GigabitEthernet0/0/0.4 is configured with 802.1Q encapsulation for VLAN 4 and assigned the IP address 192.168.4.1. The router acts as the default gateway for devices in VLAN 4.
-
-
-
+Note: The router subinterface GigabitEthernet0/0/0.4 is configured with IEEE 802.1Q encapsulation for VLAN 4 and assigned the IP address 192.168.4.1. The router acts as the default gateway for devices in VLAN 4.
 
 
 
