@@ -30,7 +30,7 @@ Verification of router subinterfaces:
 
 ![Router Interfaces](show_ip_interface_brief.png)
 
-
+Note: Interface status before VLAN subinterface configuration.
 
 
 
