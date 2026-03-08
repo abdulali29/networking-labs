@@ -87,6 +87,32 @@ Note: The switch port connected to the router is configured as a trunk port. Thi
 
 
 
+## PC IP Configuration
+
+Devices in each VLAN are assigned IP addresses within their respective subnet.
+
+### VLAN 2
+![VLAN2 PC Configuration](PC0_vlan2_ip_configuration.png)
+
+IP Address: 192.168.2.10  
+Subnet Mask: 255.255.255.0  
+Default Gateway: 192.168.2.1  
+
+### VLAN 3
+![VLAN3 PC Configuration](PC6_vlan3_ip_configuration.png)
+
+IP Address: 192.168.3.11  
+Subnet Mask: 255.255.255.0  
+Default Gateway: 192.168.3.1  
+
+### VLAN 4
+![VLAN4 PC Configuration](PC8_vlan4_ip_configuration.png)
+
+IP Address: 192.168.4.11  
+Subnet Mask: 255.255.255.0  
+Default Gateway: 192.168.4.1
+
+
 
 ## Packet Tracer Lab
 
