@@ -157,6 +157,41 @@ A device in VLAN 2 successfully communicates with a device in VLAN 4 through the
 
 
 
+# Network Configuration Verification
+
+## Router Subinterface Status
+
+The command `show ip interface brief` confirms that the router subinterfaces are operational.
+
+![Router Subinterfaces](router_subinterfaces_status.png)
+
+---
+
+## Router Routing Table
+
+The command `show ip route` verifies that the router has routes to each VLAN network.
+
+![Router Routing Table](router_routing_table.png)
+
+---
+
+## Switch MAC Address Table
+
+The command `show mac address-table` shows the MAC addresses learned by the switch.
+
+![MAC Address Table](switch_mac_address_table.png)
+
+---
+
+## Overall Configuration Verification
+
+This output verifies the VLAN configuration, trunk link, and router interface status.
+
+![Configuration Verification](switch_router_configuration_verification.png)
+
+
+
+
 
 ## Packet Tracer Lab
 
