@@ -78,6 +78,11 @@ Note: VLAN 2, VLAN 3, and VLAN 4 are created on the switch to segment the networ
 
 
 
+## Switch Trunk Port Configuration
+
+![Switch Trunk Configuration](switch_trunk_configuration.png)
+
+Note: The switch port connected to the router is configured as a trunk port. This allows multiple VLANs to travel over the same physical link using IEEE 802.1Q tagging.
 
 
 
