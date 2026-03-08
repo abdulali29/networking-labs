@@ -24,6 +24,16 @@ The goal of this lab is to configure inter-VLAN routing using the Router-on-a-St
 - Router-on-a-Stick
 
 
+## Router Interfaces
+
+Verification of router subinterfaces:
+
+![Router Interfaces](show_ip_interface_brief.png)
+
+
+
+
+
 
 ## Packet Tracer Lab
 
