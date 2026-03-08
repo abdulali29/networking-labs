@@ -33,6 +33,7 @@ Verification of router subinterfaces:
 Note: Interface status before VLAN subinterface configuration.
 
 
+
 ## VLAN 2 Subinterface Configuration
 
 ![VLAN2 Configuration](VLAN2_configuration.png)
@@ -41,6 +42,11 @@ Note: The router subinterface for VLAN 2 is configured using 802.1Q encapsulatio
 
 
 
+## VLAN 3 Subinterface Configuration
+
+![VLAN3 Configuration](VLAN3_configuration.png)
+
+Note: The router subinterface GigabitEthernet0/0/0.3 is configured with 802.1Q encapsulation for VLAN 3 and assigned the IP address 192.168.3.1. The router now acts as the default gateway for devices in VLAN 3.
 
 
 
