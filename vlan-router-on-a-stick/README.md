@@ -175,6 +175,15 @@ The command `show ip route` verifies that the router has routes to each VLAN net
 
 ---
 
+
+### Switch Trunk Verification
+
+The trunk link between the switch and router allows multiple VLANs to pass using IEEE 802.1Q tagging.
+
+![Switch Trunk](switch_trunk_configuration.png)
+
+
+
 ## Switch MAC Address Table
 
 The command `show mac address-table` shows the MAC addresses learned by the switch.
