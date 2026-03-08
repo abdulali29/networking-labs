@@ -69,6 +69,17 @@ Note: The output of `show ip interface brief` confirms that the router subinterf
 
 
 
+## Create VLANs on Switch
+
+![Create VLANs](create_vlans.png)
+
+Note: VLAN 2, VLAN 3, and VLAN 4 are created on the switch to segment the network into separate broadcast domains.
+
+
+
+
+
+
 
 
 
