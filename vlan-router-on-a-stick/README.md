@@ -33,6 +33,15 @@ Verification of router subinterfaces:
 Note: Interface status before VLAN subinterface configuration.
 
 
+## VLAN 2 Subinterface Configuration
+
+![VLAN2 Configuration](VLAN2_configuration.png)
+
+Note: The router subinterface for VLAN 2 is configured using 802.1Q encapsulation and assigned the IP address 192.168.2.1. Once configured, the interface state changes to **up**, allowing the router to act as the default gateway for VLAN 2.
+
+
+
+
 
 
 ## Packet Tracer Lab
